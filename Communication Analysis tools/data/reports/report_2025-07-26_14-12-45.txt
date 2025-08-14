@@ -1,0 +1,32 @@
+Single WhatsApp Message Analysis Report
+
+--- Individual Message Analysis ---
+
+ Source: manual_input_whatsapp
+ Subject: Unformatted Chat Line
+ Sender: Unknown
+ Conversation ID: whatsapp_chat_typed_whatsapp_msg_txt
+ Timestamp: None
+ Message Body: i de oo
+how your side
+we just de
+oya na we go meet for field
+ Spam: HAM
+ Sentiment: neutral
+ Style: 99 (neutral)
+--------------------------------------------------
+
+--- Summary Metrics ---
+
+Total Messages        : 1
+Spam Breakdown        : SPAM = 0, HAM = 1
+Sentiment Breakdown   : {'positive': 0, 'neutral': 1, 'negative': 0}
+Average Style Score   : 99.0
+Formality Breakdown   : {'formal': 0, 'informal': 0}
+
+--- Behavioral Insights (Limited for single message) ---
+
+Top Senders           : {'Unknown': 1}
+Avg Response Delay    : [Not enough data for response time calculation]
+Suggestions           :
+ - No behavioral recommendations found.

@@ -1,0 +1,43 @@
+Custom Test Report
+
+--- Individual Message Analysis ---
+
+File: informal.txt
+ Subject: Hey! What's up?
+ Sender: sarah.davis@example.com
+ Conversation ID: informal_weekend_002
+ Timestamp: 2025-07-26 14:30:00
+ Message Body Preview: Hey Mark,
+
+What's up for the weekend? Thinking of hitting up that new coffee spot downtown. Wanna jo...
+ Spam: HAM
+ Sentiment: neutral
+ Style: 74 (informal)
+--------------------------------------------------
+File: informal.txt
+ Subject: Re: Hey! What's up?
+ Sender: mark.wilson@example.com
+ Conversation ID: informal_weekend_002
+ Timestamp: 2025-07-26 16:00:00
+ Message Body Preview: Hey Sarah,
+
+Oh, totally! That sounds awesome. I'm free Saturday morning. Is that cool? I heard their...
+ Spam: HAM
+ Sentiment: neutral
+ Style: 74 (neutral)
+--------------------------------------------------
+
+--- Summary Metrics ---
+
+Total Messages        : 2
+Spam Breakdown        : SPAM = 0, HAM = 2
+Sentiment Breakdown   : {'positive': 0, 'neutral': 2, 'negative': 0}
+Average Style Score   : 74.0
+Formality Breakdown   : {'formal': 0, 'informal': 1}
+
+--- Behavioral Insights ---
+
+Top Senders           : {'sarah.davis@example.com': 1, 'mark.wilson@example.com': 1}
+Avg Response Delay    : 5400.0 seconds
+Suggestions           :
+ - Use more formal phrasing for formal tone.

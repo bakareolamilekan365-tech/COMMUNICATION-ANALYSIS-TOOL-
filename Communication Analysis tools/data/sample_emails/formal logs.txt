@@ -1,0 +1,35 @@
+Subject: Confirmation: Project Synergy Kick-off Meeting
+From: alicia.smith@example.com
+To: bob.jones@example.com
+Date: 2025-07-26 10:00:00
+Conversation-ID: formal_synergy_001
+
+Dear Mr. Jones,
+
+This email confirms our Project Synergy kick-off meeting scheduled for Monday, July 29th, at 9:00 AM in Conference Room B.
+
+The agenda and pre-reading materials have been attached for your review. Please come prepared to discuss the initial project scope and resource allocation.
+
+We look forward to a productive discussion.
+
+Sincerely,
+Alicia Smith
+Project Lead
+
+---EMAIL_BOUNDARY---
+
+Subject: RE: Confirmation: Project Synergy Kick-off Meeting
+From: bob.jones@example.com
+To: alicia.smith@example.com
+Date: 2025-07-26 10:15:00
+Conversation-ID: formal_synergy_001
+
+Dear Ms. Smith,
+
+Thank you for the confirmation regarding the Project Synergy kick-off meeting. I have received the agenda and materials and will review them thoroughly.
+
+I anticipate a productive discussion on Monday.
+
+Best regards,
+Bob Jones
+Senior Consultant

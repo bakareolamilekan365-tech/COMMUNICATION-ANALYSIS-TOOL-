@@ -1,0 +1,629 @@
+Communication Analysis Report
+
+--- Individual Message Analysis ---
+
+File: email1.txt
+ Subject: Project Alpha - Weekly Update
+ Sender: project.manager@example.com
+ Conversation ID: project_alpha_convo_1
+ Timestamp: 2025-07-25 09:30:00
+ Message Body Preview: Hi Team,
+
+Just a quick update on Project Alpha. We've successfully completed Phase 1 ahead of schedu...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (formal)
+--------------------------------------------------
+File: formal logs.txt
+ Subject: Confirmation: Project Synergy Kick-off Meeting
+ Sender: alicia.smith@example.com
+ Conversation ID: formal_synergy_001
+ Timestamp: 2025-07-26 10:00:00
+ Message Body Preview: Dear Mr. Jones,
+
+This email confirms our Project Synergy kick-off meeting scheduled for Monday, July...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (formal)
+--------------------------------------------------
+File: formal logs.txt
+ Subject: RE: Confirmation: Project Synergy Kick-off Meeting
+ Sender: bob.jones@example.com
+ Conversation ID: formal_synergy_001
+ Timestamp: 2025-07-26 10:15:00
+ Message Body Preview: Dear Ms. Smith,
+
+Thank you for the confirmation regarding the Project Synergy kick-off meeting. I ha...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (formal)
+--------------------------------------------------
+File: informal.txt
+ Subject: Hey! What's up?
+ Sender: sarah.davis@example.com
+ Conversation ID: informal_weekend_002
+ Timestamp: 2025-07-26 14:30:00
+ Message Body Preview: Hey Mark,
+
+What's up for the weekend? Thinking of hitting up that new coffee spot downtown. Wanna jo...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 74 (informal)
+--------------------------------------------------
+File: informal.txt
+ Subject: Re: Hey! What's up?
+ Sender: mark.wilson@example.com
+ Conversation ID: informal_weekend_002
+ Timestamp: 2025-07-26 16:00:00
+ Message Body Preview: Hey Sarah,
+
+Oh, totally! That sounds awesome. I'm free Saturday morning. Is that cool? I heard their...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 74 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-05 21:45:00
+ Message Body Preview: Congratulations boss on your convocation 🎓...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-05 21:45:00
+ Message Body Preview: It's me lekan by the way...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-06 02:18:00
+ Message Body Preview: Heyyy Lekan...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-06 02:18:00
+ Message Body Preview: Thank you very very much ✨✨...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (formal)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-06 07:21:00
+ Message Body Preview: Ya wlc...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-06 07:21:00
+ Message Body Preview: How you doing 🤲🏾...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-06 09:33:00
+ Message Body Preview: I’m great my guy...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-06 11:27:00
+ Message Body Preview: How's home?...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-06 13:02:00
+ Message Body Preview: Good bro
+Good...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 87 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-06 13:02:00
+ Message Body Preview: How’s school now ?...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-06 13:34:00
+ Message Body Preview: Schl is just there bruh...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 80 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-07 09:03:00
+ Message Body Preview: Oh okey brooo...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-07 09:03:00
+ Message Body Preview: It is well...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-14 14:31:00
+ Message Body Preview: You deleted this message...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-14 14:32:00
+ Message Body Preview: How's work...
+   Spam      : SPAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-14 15:44:00
+ Message Body Preview: Good bro...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 90 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-14 15:55:00
+ Message Body Preview: Sorry for the late replies, I've actually been preparing for exams, I have an exam tomorrow you sse...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 99 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-14 15:55:00
+ Message Body Preview: Anyways do you have any business opportunities...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-14 16:21:00
+ Message Body Preview: Ohh okey
+No problem...
+   Spam      : SPAM
+   Sentiment : negative
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-14 16:21:00
+ Message Body Preview: What can you do ?
+Or what do you sell?...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-14 16:23:00
+ Message Body Preview: Don't sell anything
+But what I do? I don't have, my skills are nothing rn...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 89 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-14 16:26:00
+ Message Body Preview: Ohhh okay...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-14 16:27:00
+ Message Body Preview: You’d need to build though
+Build yourself...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-14 16:28:00
+ Message Body Preview: Give a pointer, I don't really have that broad mind...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 90 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-14 20:01:00
+ Message Body Preview: What do you like to do ?...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-14 20:06:00
+ Message Body Preview: Mostly technology stuff, let's say gadgets enthusiast...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-16 16:20:00
+ Message Body Preview: Okayyyy...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-16 16:21:00
+ Message Body Preview: Why don’t you learn to fix gadgets ?...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-16 16:21:00
+ Message Body Preview: Specialize on fixing iPhones alone...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-16 16:25:00
+ Message Body Preview: It's not really hardware enthusiast like that, someone that has the capacity for everything related ...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-16 16:26:00
+ Message Body Preview: That’s nice...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-16 16:26:00
+ Message Body Preview: But you know in Nigeria
+You first have to be able to fund your passion...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-16 16:27:00
+ Message Body Preview: I understand you but I also feel you should focus on making money from something first
+Then you fund...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-16 16:30:00
+ Message Body Preview: I should start doing reviews? Alright I'll start, I'll first get a small team of people...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-16 16:30:00
+ Message Body Preview: No no
+Not yet...
+   Spam      : SPAM
+   Sentiment : negative
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-16 16:31:00
+ Message Body Preview: Steps
+1. Make small money
+2. ⁠buy a good phone with a nice camera
+3. ⁠start doing the reviews all by...
+   Spam      : SPAM
+   Sentiment : positive
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-16 16:34:00
+ Message Body Preview: Ohhhh
+Now I get...
+   Spam      : SPAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-16 16:34:00
+ Message Body Preview: I have to start small...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-02-17 06:48:00
+ Message Body Preview: Yes yes...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-03-01 09:36:00
+ Message Body Preview: _*The secret of getting ahead is getting started. The secret of getting started is breaking your com...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (formal)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-03-01 09:37:00
+ Message Body Preview: Same to you bro...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 90 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-04-24 12:12:00
+ Message Body Preview: _*“ Once you fail to prepare, you are prepared to fail ”*_ 🫴🏾🫵🏾
+*Embrace this day fully. It's a fres...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-04-24 18:09:00
+ Message Body Preview: God bless you very much for this bro ✨...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 95 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-06-03 07:22:00
+ Message Body Preview: *A Month of Fresh Beginnings*
+Happy new month! We are gifted a powerful opportunity to hit refresh, ...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-06-03 11:28:00
+ Message Body Preview: Thanks brother...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-06-03 11:28:00
+ Message Body Preview: God bless you...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: personal_whatsapp.txt
+ Subject: WhatsApp Chat Message
+ Sender: Black Is Beautiful 🖤✨
+ Conversation ID: whatsapp_chat_personal_whatsapp_txt
+ Timestamp: 2025-07-02 18:48:00
+ Message Body Preview: Happy new month family 🎉🥳
+As number 7 represents perfect so will July be perfect for us all
+*_Black ...
+   Spam      : HAM
+   Sentiment : positive
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: spammy.txt
+ Subject: URGENT: Action Required - Security Breach Detected
+ Sender: security.alert@example.com
+ Conversation ID: security_alert_convo_1
+ Timestamp: 2025-07-25 10:00:00
+ Message Body Preview: Dear User,
+
+Our systems have detected unusual activity on your account. For your protection, we have...
+   Spam      : SPAM
+   Sentiment : negative
+   Style     : 100 (formal)
+--------------------------------------------------
+File: spammy.txt
+ Subject: FINAL WARNING: Your Account Deactivation Pending!
+ Sender: security.update@secure-login.com
+ Conversation ID: spam_alert_003
+ Timestamp: 2025-07-26 10:00:00
+ Message Body Preview: ATTENTION:
+
+This is your final notification regarding the security breach detected on your account. ...
+   Spam      : HAM
+   Sentiment : negative
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: whatsapp_sample1.txt
+ Subject: WhatsApp Chat Message
+ Sender: Tobi 🧢
+ Conversation ID: whatsapp_chat_whatsapp_sample1_txt
+ Timestamp: 2025-03-10 14:45:00
+ Message Body Preview: Bro did you finish the project?...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 90 (neutral)
+--------------------------------------------------
+File: whatsapp_sample1.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bakare 🧠
+ Conversation ID: whatsapp_chat_whatsapp_sample1_txt
+ Timestamp: 2025-03-10 14:47:00
+ Message Body Preview: I just started small small 😅...
+   Spam      : HAM
+   Sentiment : neutral
+   Style     : 93 (neutral)
+--------------------------------------------------
+File: whatsapp_sample1.txt
+ Subject: WhatsApp Chat Message
+ Sender: Tobi 🧢
+ Conversation ID: whatsapp_chat_whatsapp_sample1_txt
+ Timestamp: 2025-03-10 14:50:00
+ Message Body Preview: Make you no dull oh...
+   Spam      : SPAM
+   Sentiment : negative
+   Style     : 100 (neutral)
+--------------------------------------------------
+File: whatsapp_sample1.txt
+ Subject: WhatsApp Chat Message
+ Sender: Bakare 🧠
+ Conversation ID: whatsapp_chat_whatsapp_sample1_txt
+ Timestamp: 2025-03-10 15:01:00
+ Message Body Preview: No wahala boss...
+   Spam      : SPAM
+   Sentiment : negative
+   Style     : 100 (neutral)
+--------------------------------------------------
+
+--- Summary Metrics ---
+
+Total Messages        : 58
+Spam Breakdown        : SPAM = 8, HAM = 50
+Sentiment Breakdown   : {'positive': 19, 'neutral': 33, 'negative': 6}
+Average Style Score   : 97.431
+Formality Breakdown   : {'formal': 6, 'informal': 1}
+
+--- Behavioral Insights ---
+
+Top Senders           : {'project.manager@example.com': 1, 'alicia.smith@example.com': 1, 'bob.jones@example.com': 1, 'sarah.davis@example.com': 1, 'mark.wilson@example.com': 1, 'Black Is Beautiful 🖤✨': 21, 'Bobola 🤖✨': 26, 'security.alert@example.com': 1, 'security.update@secure-login.com': 1, 'Tobi 🧢': 2, 'Bakare 🧠': 2}
+Avg Response Delay    : 248969.41 seconds
+Suggestions           :
+ - Respond to the messages more promptly to improve conversation engagement.

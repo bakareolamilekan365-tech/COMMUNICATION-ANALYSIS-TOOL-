@@ -1,0 +1,55 @@
+Subject: URGENT: Action Required - Security Breach Detected
+From: security.alert@example.com
+To: user@example.com
+Date: 2025-07-25 10:00:00
+Conversation-ID: security_alert_convo_1
+
+Dear User,
+
+Our systems have detected unusual activity on your account. For your protection, we have temporarily suspended your access.
+
+To restore your account access immediately, please click on the following secure link and verify your credentials:
+[MALICIOUS_LINK_PLACEHOLDER]
+
+Failure to do so within 24 hours will result in permanent account deactivation. This is a critical security measure.
+
+Sincerely,
+Security DepartmentSubject: URGENT: Your Account Has Been Compromised - Action Required!
+From: security.update@secure-login.com
+To: victim@example.com
+Date: 2025-07-26 08:00:00
+Conversation-ID: spam_alert_003
+
+Dear Valued Customer,
+
+We have detected suspicious activity on your account originating from an unrecognized device. For your security, your account has been temporarily locked.
+
+To avoid permanent deactivation, you MUST verify your account details immediately by clicking the link below:
+
+CLICK HERE TO VERIFY: [https://www.google.com/search?q=http://suspicious-link.biz/verify-now]
+
+Failure to comply within 12 hours will result in the permanent closure of your account and loss of all data. This is a critical security measure.
+
+Thank You,
+Security Team
+
+---EMAIL_BOUNDARY---
+
+Subject: FINAL WARNING: Your Account Deactivation Pending!
+From: security.update@secure-login.com
+To: victim@example.com
+Date: 2025-07-26 10:00:00
+Conversation-ID: spam_alert_003
+
+ATTENTION:
+
+This is your final notification regarding the security breach detected on your account. Our records indicate you have NOT completed the mandatory verification process.
+
+Your account will be permanently terminated in 1 hour. Do not miss this LAST CHANCE to secure your funds and personal information.
+
+ACT NOW: [https://www.google.com/search?q=http://suspicious-link.biz/final-chance]
+
+We are not responsible for any loss of data or funds due to non-compliance.
+
+Sincerely,
+Account Management

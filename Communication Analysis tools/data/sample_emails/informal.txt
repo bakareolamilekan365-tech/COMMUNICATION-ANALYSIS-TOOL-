@@ -1,0 +1,30 @@
+Subject: Hey! What's up?
+From: sarah.davis@example.com
+To: mark.wilson@example.com
+Date: 2025-07-26 14:30:00
+Conversation-ID: informal_weekend_002
+
+Hey Mark,
+
+What's up for the weekend? Thinking of hitting up that new coffee spot downtown. Wanna join? It's supposed to be super chill.
+
+Let me know!
+
+Cheers,
+Sarah
+
+---EMAIL_BOUNDARY---
+
+Subject: Re: Hey! What's up?
+From: mark.wilson@example.com
+To: sarah.davis@example.com
+Date: 2025-07-26 16:00:00
+Conversation-ID: informal_weekend_002
+
+Hey Sarah,
+
+Oh, totally! That sounds awesome. I'm free Saturday morning. Is that cool? I heard their pastries are amazing.
+
+Can't wait!
+
+Mark

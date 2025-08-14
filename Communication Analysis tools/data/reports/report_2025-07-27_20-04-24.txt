@@ -1,0 +1,29 @@
+Single WhatsApp Message Analysis Report
+
+--- Individual Message Analysis ---
+
+ Source: manual_input_whatsapp
+ Subject: WhatsApp Chat Message
+ Sender: Bobola 🤖✨
+ Conversation ID: whatsapp_chat_typed_whatsapp_msg_txt
+ Timestamp: 2025-02-14 16:26:00
+ Message Body: Ohhh okay
+ Spam: HAM
+ Sentiment: neutral
+ Style: 50 (informal)
+--------------------------------------------------
+
+--- Summary Metrics ---
+
+Total Messages        : 1
+Spam Breakdown        : SPAM = 0, HAM = 1
+Sentiment Breakdown   : {'positive': 0, 'neutral': 1, 'negative': 0}
+Average Style Score   : 50.0
+Formality Breakdown   : {'formal': 0, 'informal': 1}
+
+--- Behavioral Insights (Limited for single message) ---
+
+Top Senders           : {'TestSender': 1}
+Avg Response Delay    : [Not enough data for response time calculation]
+Suggestions           :
+ - No behavioral recommendations found.

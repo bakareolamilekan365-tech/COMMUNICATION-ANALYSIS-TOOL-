@@ -1,0 +1,15 @@
+
+--- Summary Metrics ---
+
+Total Messages        : 58
+Spam Breakdown        : SPAM = 8, HAM = 50
+Sentiment Breakdown   : {'positive': 19, 'neutral': 33, 'negative': 6}
+Average Style Score   : 97.431
+Formality Breakdown   : {'formal': 6, 'informal': 1}
+
+--- Behavioral Insights ---
+
+Top Senders           : {'project.manager@example.com': 1, 'alicia.smith@example.com': 1, 'bob.jones@example.com': 1, 'sarah.davis@example.com': 1, 'mark.wilson@example.com': 1, 'Black Is Beautiful 🖤✨': 21, 'Bobola 🤖✨': 26, 'security.alert@example.com': 1, 'security.update@secure-login.com': 1, 'Tobi 🧢': 2, 'Bakare 🧠': 2}
+Avg Response Delay    : 248969.41 seconds
+Suggestions           :
+ - Respond to the messages more promptly to improve conversation engagement.

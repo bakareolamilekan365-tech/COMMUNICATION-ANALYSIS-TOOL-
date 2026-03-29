@@ -1,0 +1,24 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environment and logs
+.env
+.env.*
+*.log
+
+# Generated analysis outputs (keep folder, ignore timestamped report files)
+Communication Analysis tools/data/reports/report_*.txt
+Communication Analysis tools/data/reports/custom_report_*.txt
+Communication Analysis tools/data/reports/test_analysis_report.txt
